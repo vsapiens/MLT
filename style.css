@@ -1,0 +1,50 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+  outline: none;
+}
+
+.mdl-layout-spacer {
+  font-family: 'Roboto', sans-serif;
+}
+
+.page-title-span {
+  margin: 20px;
+}
+.login-cover {
+  background: #FFF;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  z-index: 800;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+#menu_nav li {
+  background-color: blue;
+  width: 100%;
+}
+
+.completeshadow{
+  width:100%;
+}
+.heightnine{
+  height:10%;
+}
+.producto{
+  width:20%;
+  margin: 0px 10px 0px -8px;
+}
+.imageuploader{
+  z-index: auto;
+  position: absolute;
+}
